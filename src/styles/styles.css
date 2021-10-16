@@ -1,0 +1,32 @@
+.mainBtn {
+    display: inline-block;
+    padding: 20px;
+    background-color: lightsalmon;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+    border-radius: 10px;
+    margin: 10px;
+    color:white
+}
+
+.selectQuestion {
+    width: '45%';
+    padding: 10px;
+    font-size: 15px;
+}
+
+.quesDiv {
+    margin: 10px;
+    padding: 5px;
+}
+
+#question { 
+    width: 400px;
+    padding: 10px;
+}
+
+#option {
+    width: 250px;
+    padding: 7px;
+}
